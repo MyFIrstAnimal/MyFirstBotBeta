@@ -1,2 +1,0 @@
-# MyFirstBotBeta
-Created with CodeSandbox
